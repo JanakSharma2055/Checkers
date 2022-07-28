@@ -12,7 +12,7 @@ pip install -r requirements.txt
 
 ## Usage
 - Install the required dependencies
--Now simply run the main.py as below
+- Now simply run the main.py as below
 
 ```python
 python main.py
